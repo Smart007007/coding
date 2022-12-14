@@ -1,0 +1,94 @@
+2022-11-27 15:42:10,059 - basePage.py:[41] - [CRITICAL] - 异常发生，页面打开失败，失败内容是：Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+ 
+失败的页面是： http://139.199.0.102/passport/login
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 38, in open
+    self.driver.get(self.url)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+
+2022-11-27 15:42:24,192 - basePage.py:[56] - [ERROR] - 元素定位失败，错误信息是 Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('css selector', '[formcontrolname="userName"]')
+2022-11-27 15:42:24,192 - basePage.py:[72] - [ERROR] - 输入内容13986128128失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-27 15:42:38,269 - basePage.py:[56] - [ERROR] - 元素定位失败，错误信息是 Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('css selector', '[formcontrolname="password"]')
+2022-11-27 15:42:38,269 - basePage.py:[72] - [ERROR] - 输入内容121121失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-27 15:42:54,410 - basePage.py:[56] - [ERROR] - 元素定位失败，错误信息是 Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('xpath', '//form/nz-form-item[4]/button')
+2022-11-27 15:43:08,546 - basePage.py:[112] - [ERROR] - 元素('xpath', '//form/nz-form-item[4]/button')点击失败，原因是：Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 109, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+
+2022-11-27 15:43:54,912 - basePage.py:[41] - [CRITICAL] - 异常发生，页面打开失败，失败内容是：Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+ 
+失败的页面是： http://139.199.0.102/passport/login
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 38, in open
+    self.driver.get(self.url)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+
+2022-11-27 15:44:09,036 - basePage.py:[56] - [ERROR] - 元素定位失败，错误信息是 Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('css selector', '[formcontrolname="userName"]')
+2022-11-27 15:44:09,036 - basePage.py:[72] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-27 15:44:23,175 - basePage.py:[56] - [ERROR] - 元素定位失败，错误信息是 Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('css selector', '[formcontrolname="password"]')
+2022-11-27 15:44:23,175 - basePage.py:[72] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-27 15:44:39,289 - basePage.py:[56] - [ERROR] - 元素定位失败，错误信息是 Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('xpath', '//form/nz-form-item[4]/button')
+2022-11-27 15:44:53,428 - basePage.py:[112] - [ERROR] - 元素('xpath', '//form/nz-form-item[4]/button')点击失败，原因是：Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 109, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\software\Pythonhome\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+
+2022-11-27 15:45:08,587 - basePage.py:[56] - [ERROR] - 元素定位失败，错误信息是 Message: chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-27 15:45:08,587 - basePage.py:[86] - [ERROR] - 获取文本失败('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 83, in getElementValue
+    eleText=ele.text
+            ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'

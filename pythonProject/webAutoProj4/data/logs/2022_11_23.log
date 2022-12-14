@@ -1,0 +1,75 @@
+2022-11-23 14:41:30,119 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-23 14:41:30,139 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-23 14:41:30,191 - basePage.py:[65] - [INFO] - 输入内容成功
+2022-11-23 14:41:30,208 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-23 14:41:30,251 - basePage.py:[65] - [INFO] - 输入内容成功
+2022-11-23 14:41:30,265 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-23 14:41:30,302 - basePage.py:[104] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-23 14:41:30,705 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-23 14:41:30,718 - basePage.py:[79] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-23 14:41:30,741 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-23 14:41:30,769 - basePage.py:[104] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-23 14:53:03,158 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-23 14:53:03,182 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-23 14:53:03,235 - basePage.py:[65] - [INFO] - 输入内容成功
+2022-11-23 14:53:03,253 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-23 14:53:03,291 - basePage.py:[65] - [INFO] - 输入内容成功
+2022-11-23 14:53:03,306 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-23 14:53:03,343 - basePage.py:[104] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-23 14:53:13,477 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ant-modal-confirm-title>span')
+2022-11-23 14:53:13,477 - basePage.py:[76] - [ERROR] - 获取文本失败('css selector', '.ant-modal-confirm-title>span')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 73, in getElementValue
+    eleText=ele.text
+            ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2022-11-23 14:53:18,500 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', ".ant-btn.ng-star-inserted.ant-btn-primary'")
+2022-11-23 14:53:18,500 - basePage.py:[101] - [ERROR] - 元素('css selector', ".ant-btn.ng-star-inserted.ant-btn-primary'")点击失败，原因是：'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 98, in doClick
+    ele.click()
+    ^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+2022-11-23 16:10:39,653 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-23 16:10:49,812 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '[formcontrolname="userName"]')
+2022-11-23 16:10:49,812 - basePage.py:[62] - [ERROR] - 输入内容13986128128失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-23 16:10:59,940 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '[formcontrolname="password"]')
+2022-11-23 16:10:59,940 - basePage.py:[62] - [ERROR] - 输入内容121121失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-23 16:11:10,063 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', "[type='submit']")
+2022-11-23 16:11:10,063 - basePage.py:[101] - [ERROR] - 元素('css selector', "[type='submit']")点击失败，原因是：'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 98, in doClick
+    ele.click()
+    ^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+2022-11-23 16:11:20,199 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ant-modal-confirm-title>span')
+2022-11-23 16:11:20,199 - basePage.py:[76] - [ERROR] - 获取文本失败('css selector', '.ant-modal-confirm-title>span')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 73, in getElementValue
+    eleText=ele.text
+            ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2022-11-23 16:11:25,203 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', ".ant-btn.ng-star-inserted.ant-btn-primary'")
+2022-11-23 16:11:25,203 - basePage.py:[101] - [ERROR] - 元素('css selector', ".ant-btn.ng-star-inserted.ant-btn-primary'")点击失败，原因是：'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "D:\PythonCoding\pythonProject\webAutoProj4\demo\pageObject\basePage.py", line 98, in doClick
+    ele.click()
+    ^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+2022-11-23 16:52:40,047 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-23 17:02:10,883 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-23 17:02:10,905 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-23 17:02:10,974 - basePage.py:[65] - [INFO] - 输入内容成功
+2022-11-23 17:02:10,998 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-23 17:02:11,053 - basePage.py:[65] - [INFO] - 输入内容成功
+2022-11-23 17:02:11,075 - basePage.py:[49] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-23 17:02:11,125 - basePage.py:[104] - [INFO] - 元素('css selector', "[type='submit']")点击成功！

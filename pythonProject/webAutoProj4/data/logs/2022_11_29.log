@@ -1,0 +1,279 @@
+2022-11-29 09:22:48,767 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:22:48,793 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:22:48,868 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:22:48,893 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:22:48,950 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:22:50,968 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:22:50,983 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:22:54,992 - test_login.py:[40] - [INFO] - 断言成功！ 
+2022-11-29 09:22:55,427 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:22:55,452 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-29 09:22:56,046 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', "//div[text()='退出账号']")
+2022-11-29 09:22:56,094 - basePage.py:[115] - [INFO] - 元素('xpath', "//div[text()='退出账号']")点击成功！
+2022-11-29 09:22:59,114 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-29 09:22:59,174 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')点击成功！
+2022-11-29 09:23:05,707 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:05,745 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:05,792 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:05,818 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:05,858 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:07,876 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:07,887 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:08,906 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:23:08,917 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-29 09:23:08,932 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:23:08,941 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-29 09:23:11,119 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:11,160 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:11,255 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:11,276 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:11,350 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:13,368 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:13,375 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:14,392 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:23:14,403 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-29 09:23:16,875 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:16,918 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:17,045 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:17,069 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:17,154 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:19,168 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:19,180 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:20,197 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:23:20,206 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:23:20,222 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:23:20,229 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:23:22,685 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:22,723 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:22,825 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:22,845 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:22,914 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:24,931 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:24,942 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:25,957 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:23:25,968 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:23:25,981 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:23:25,988 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:23:28,458 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:28,503 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:28,617 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:28,639 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:28,712 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:30,726 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:30,736 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:31,751 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:23:31,761 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:23:31,774 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:23:31,780 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:23:34,247 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:34,285 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:34,339 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:34,372 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:34,414 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:36,429 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:36,438 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:37,457 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:23:37,467 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-29 09:23:37,481 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:23:37,490 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-29 09:23:39,931 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:39,974 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:40,093 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:40,114 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:40,158 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:42,174 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:42,182 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:43,198 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:23:43,208 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-29 09:23:45,653 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:45,695 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:45,754 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:45,780 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:45,861 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:47,876 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:47,883 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:48,901 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:23:48,912 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-29 09:23:51,361 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:23:51,415 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:23:51,534 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:51,559 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:23:51,634 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:23:53,652 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:23:53,694 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:23:57,701 - test_login.py:[40] - [INFO] - 断言成功！ 
+2022-11-29 09:23:58,133 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:23:58,153 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-29 09:23:58,745 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', "//div[text()='退出账号']")
+2022-11-29 09:23:58,777 - basePage.py:[115] - [INFO] - 元素('xpath', "//div[text()='退出账号']")点击成功！
+2022-11-29 09:24:01,796 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-29 09:24:01,846 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')点击成功！
+2022-11-29 09:24:07,306 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:24:07,353 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:24:07,491 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:24:07,517 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:24:07,581 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:24:09,597 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:24:09,603 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:24:10,622 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:24:10,631 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-29 09:24:13,104 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:24:13,139 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:24:13,271 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:24:13,293 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:24:13,371 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:24:15,389 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:24:15,402 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:24:16,423 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:24:16,433 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:24:16,448 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:24:16,456 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:24:18,908 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:24:18,952 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:24:19,071 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:24:19,090 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:24:19,161 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:24:21,176 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:24:21,187 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:24:22,200 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:24:22,210 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:24:22,222 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:24:22,229 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:39:25,312 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:39:25,331 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:39:25,380 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:25,397 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:39:25,436 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:27,453 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:39:27,459 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:39:28,475 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:39:28,484 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-29 09:39:28,484 - test_login.py:[176] - [INFO] - 断言成功！ 
+2022-11-29 09:39:29,231 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:39:31,847 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:39:31,886 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:39:31,935 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:31,948 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:39:31,987 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:34,000 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:39:34,011 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:39:35,026 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:39:35,035 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:39:35,035 - test_login.py:[191] - [INFO] - 断言成功！ 
+2022-11-29 09:39:35,764 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:39:35,779 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:39:35,786 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:39:37,964 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:39:37,997 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:39:38,052 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:38,068 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:39:38,113 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:40,128 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:39:40,161 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:39:41,174 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:39:41,182 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:39:41,182 - test_login.py:[158] - [INFO] - 断言成功！ 
+2022-11-29 09:39:41,912 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:39:41,924 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:39:41,930 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:39:44,335 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:39:44,386 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:39:44,452 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:44,464 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:39:44,508 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:46,522 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:39:46,532 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:39:47,544 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:39:47,552 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:39:47,552 - test_login.py:[122] - [INFO] - 断言成功！ 
+2022-11-29 09:39:48,282 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:39:48,295 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:39:48,301 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:39:50,713 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:39:50,762 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:39:50,793 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:50,809 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:39:50,833 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:52,847 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:39:52,856 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:39:53,871 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:39:53,880 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-29 09:39:53,880 - test_login.py:[59] - [INFO] - 断言成功！ 
+2022-11-29 09:39:54,634 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:39:54,649 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:39:54,657 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-29 09:39:54,657 - test_login.py:[69] - [INFO] - 断言成功！ 
+2022-11-29 09:39:55,393 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:39:57,611 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:39:57,672 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:39:57,792 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:57,814 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:39:57,858 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:39:59,875 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:39:59,882 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:40:00,898 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:40:00,908 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-29 09:40:00,908 - test_login.py:[107] - [INFO] - 断言成功！ 
+2022-11-29 09:40:01,870 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:40:04,449 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:40:04,509 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:40:04,566 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:04,587 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:40:04,665 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:06,683 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:40:06,691 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:40:07,708 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:40:07,718 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-29 09:40:07,718 - test_login.py:[84] - [INFO] - 断言成功！ 
+2022-11-29 09:40:08,643 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:40:11,148 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:40:11,213 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:40:11,322 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:11,345 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:40:11,420 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:13,436 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:40:13,450 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:40:17,459 - test_login.py:[40] - [INFO] - 断言成功！ 
+2022-11-29 09:40:17,883 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:40:17,906 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-29 09:40:18,471 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', "//div[text()='退出账号']")
+2022-11-29 09:40:18,508 - basePage.py:[115] - [INFO] - 元素('xpath', "//div[text()='退出账号']")点击成功！
+2022-11-29 09:40:21,533 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-29 09:40:21,563 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')点击成功！
+2022-11-29 09:40:27,103 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:40:27,137 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:40:27,239 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:27,265 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:40:27,321 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:29,341 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:40:29,349 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:40:30,367 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:40:30,378 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-29 09:40:30,378 - test_login.py:[207] - [INFO] - 断言成功！ 
+2022-11-29 09:40:31,302 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:40:33,781 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:40:33,830 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:40:33,940 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:33,963 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:40:34,041 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:36,058 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:40:36,073 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:40:37,089 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:40:37,099 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:40:37,099 - test_login.py:[222] - [INFO] - 断言成功！ 
+2022-11-29 09:40:38,007 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:40:38,026 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:40:38,035 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
+2022-11-29 09:40:40,488 - basePage.py:[45] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-29 09:40:40,523 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-29 09:40:40,632 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:40,654 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-29 09:40:40,726 - basePage.py:[75] - [INFO] - 输入内容成功
+2022-11-29 09:40:42,742 - basePage.py:[59] - [DEBUG] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:40:42,753 - basePage.py:[115] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:40:43,769 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:40:43,779 - basePage.py:[89] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-29 09:40:43,779 - test_login.py:[140] - [INFO] - 断言成功！ 
+2022-11-29 09:40:44,685 - basePage.py:[102] - [INFO] - 截图成功！
+2022-11-29 09:40:44,699 - basePage.py:[59] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:40:44,706 - basePage.py:[115] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！

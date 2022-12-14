@@ -1,0 +1,87 @@
+2022-11-21 14:55:06,030 - doLog.py:[47] - [INFO] - 我是info级别的日志，等级是20
+2022-11-21 14:55:06,030 - doLog.py:[49] - [WARNING] - 我是woring级别的日志，等级是30
+2022-11-21 14:55:06,030 - doLog.py:[51] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 14:55:06,030 - doLog.py:[53] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 14:56:09,824 - doLog.py:[45] - [DEBUG] - 我是debug级别的日志，等级是10
+2022-11-21 14:56:09,824 - doLog.py:[47] - [INFO] - 我是info级别的日志，等级是20
+2022-11-21 14:56:09,824 - doLog.py:[49] - [WARNING] - 我是woring级别的日志，等级是30
+2022-11-21 14:56:09,824 - doLog.py:[51] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 14:56:09,824 - doLog.py:[53] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 14:56:29,755 - doLog.py:[51] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 14:56:29,755 - doLog.py:[53] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 15:08:49,906 - doLog.py:[46] - [DEBUG] - 我是debug级别的日志，等级是10
+2022-11-21 15:08:49,906 - doLog.py:[49] - [INFO] - 我是info级别的日志，等级是20
+2022-11-21 15:08:49,906 - doLog.py:[52] - [WARNING] - 我是woring级别的日志，等级是30
+2022-11-21 15:08:49,906 - doLog.py:[55] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 15:08:49,907 - doLog.py:[58] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 16:25:23,053 - doLog.py:[46] - [DEBUG] - 我是debug级别的日志，等级是10
+2022-11-21 16:25:23,053 - doLog.py:[49] - [INFO] - 我是info级别的日志，等级是20
+2022-11-21 16:25:23,053 - doLog.py:[52] - [WARNING] - 我是woring级别的日志，等级是30
+2022-11-21 16:25:23,053 - doLog.py:[55] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 16:25:23,054 - doLog.py:[58] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 16:26:00,205 - doLog.py:[46] - [DEBUG] - 我是debug级别的日志，等级是10
+2022-11-21 16:26:00,205 - doLog.py:[49] - [INFO] - 我是info级别的日志，等级是20
+2022-11-21 16:26:00,205 - doLog.py:[52] - [WARNING] - 我是woring级别的日志，等级是30
+2022-11-21 16:26:00,205 - doLog.py:[55] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 16:26:00,205 - doLog.py:[58] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 16:27:37,888 - doLog.py:[46] - [DEBUG] - 我是debug级别的日志，等级是10
+2022-11-21 16:27:37,888 - doLog.py:[49] - [INFO] - 我是info级别的日志，等级是20
+2022-11-21 16:27:37,888 - doLog.py:[52] - [WARNING] - 我是woring级别的日志，等级是30
+2022-11-21 16:27:37,888 - doLog.py:[55] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 16:27:37,888 - doLog.py:[58] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 16:28:19,692 - doLog.py:[46] - [DEBUG] - 我是debug级别的日志，等级是10
+2022-11-21 16:28:19,692 - doLog.py:[49] - [INFO] - 我是info级别的日志，等级是20
+2022-11-21 16:28:19,692 - doLog.py:[52] - [WARNING] - 我是woring级别的日志，等级是30
+2022-11-21 16:28:19,692 - doLog.py:[55] - [ERROR] - 我是error级别的日志，等级是40
+2022-11-21 16:28:19,692 - doLog.py:[58] - [CRITICAL] - 我是critical级别的日志，等级是50
+2022-11-21 16:38:47,603 - basePage.py:[30] - [INFO] - 未发生异常，页面打开成功！ http://www.baidu.com
+2022-11-21 16:49:20,922 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://www.baidu.com
+2022-11-21 16:49:20,926 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.108)
+，该元素是： ('id', 'kw')
+2022-11-21 16:49:20,926 - basePage.py:[56] - [ERROR] - 输入内容oython失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-21 16:56:58,033 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://www.baidu.com
+2022-11-21 16:56:58,099 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 16:56:58,563 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:19:05,464 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://www.baidu.com
+2022-11-21 23:19:05,481 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 23:19:05,553 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:20:27,875 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://www.baidu.com
+2022-11-21 23:20:27,892 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 23:20:28,082 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:36:00,551 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-21 23:43:21,247 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-21 23:43:21,264 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-21 23:43:21,648 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-21 23:44:43,447 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-21 23:44:43,464 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 23:44:43,637 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:44:43,746 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-21 23:44:43,815 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-21 23:46:43,085 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-21 23:46:43,102 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 23:46:43,259 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:46:43,344 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-21 23:46:43,378 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-21 23:54:37,852 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-21 23:54:37,876 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 23:54:38,096 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:54:38,468 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-21 23:54:38,488 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-21 23:54:38,531 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-21 23:54:38,832 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-21 23:55:40,099 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-21 23:55:40,118 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 23:55:40,289 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:55:40,634 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-21 23:55:40,659 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-21 23:55:40,691 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-21 23:55:40,967 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-21 23:57:41,462 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-21 23:57:41,490 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-21 23:57:41,598 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-21 23:57:42,050 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-21 23:57:42,073 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-21 23:57:42,113 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-21 23:57:45,397 - basePage.py:[86] - [INFO] - 截图成功！

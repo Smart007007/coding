@@ -1,0 +1,274 @@
+2022-11-22 00:11:50,424 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 00:11:50,447 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 00:11:50,680 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-22 00:11:50,985 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:11:51,014 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 00:11:51,066 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 00:11:54,392 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:13:13,636 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 00:13:13,661 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 00:13:14,084 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-22 00:13:14,472 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:13:14,498 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 00:13:14,544 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 00:13:17,836 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:13:27,943 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '[class="hint_PIwZX.c_font_2AD7M"]')
+2022-11-22 00:13:27,943 - basePage.py:[70] - [ERROR] - 获取文本失败('css selector', '[class="hint_PIwZX.c_font_2AD7M"]')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 00:15:14,336 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 00:15:14,369 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 00:15:14,806 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-22 00:15:15,142 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:15:15,160 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 00:15:15,197 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 00:15:18,476 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:15:28,597 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '[class="hint_PIwZX.c_font_2AD7M"]')
+2022-11-22 00:15:28,597 - basePage.py:[70] - [ERROR] - 获取文本失败('css selector', '[class="hint_PIwZX.c_font_2AD7M"]')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 00:16:04,066 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 00:16:04,094 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 00:16:04,393 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-22 00:16:04,845 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:16:04,865 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 00:16:04,903 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 00:16:08,186 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:16:18,294 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '[class="hint_PIwZX.c_font_2AD7M"]')
+2022-11-22 00:16:18,294 - basePage.py:[70] - [ERROR] - 获取文本失败('css selector', '[class="hint_PIwZX.c_font_2AD7M"]')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 00:19:53,936 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 00:19:53,961 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 00:19:54,232 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-22 00:19:54,697 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:19:54,719 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 00:19:54,758 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 00:19:58,057 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:19:58,074 - basePage.py:[43] - [DEBUG] - 元素定位成功，('css selector', '.hint_PIwZX.c_font_2AD7M')
+2022-11-22 00:19:58,084 - basePage.py:[73] - [INFO] - 文本获取成功，值是： 百度为您找到相关结果约100,000,000个
+2022-11-22 00:24:57,359 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 00:38:28,479 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 00:38:28,994 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:38:39,157 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.forgot.ng-tns-c1-6')
+2022-11-22 00:38:39,157 - basePage.py:[95] - [ERROR] - 元素('css selector', '.forgot.ng-tns-c1-6')点击失败，原因是：'NoneType' object has no attribute 'click'
+2022-11-22 00:38:42,589 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:38:52,730 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('xpath', '//html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 00:38:52,730 - basePage.py:[70] - [ERROR] - 获取文本失败('xpath', '//html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 00:40:35,218 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 00:40:35,702 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:40:45,865 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.forgot.ng-tns-c1-6')
+2022-11-22 00:40:45,865 - basePage.py:[95] - [ERROR] - 元素('css selector', '.forgot.ng-tns-c1-6')点击失败，原因是：'NoneType' object has no attribute 'click'
+2022-11-22 00:40:49,293 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:40:59,403 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('xpath', '//html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 00:40:59,403 - basePage.py:[70] - [ERROR] - 获取文本失败('xpath', '//html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 00:44:29,976 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 00:44:30,471 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:44:40,638 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('class name', 'forgot.ng-tns-c1-6')
+2022-11-22 00:44:40,638 - basePage.py:[95] - [ERROR] - 元素('class name', 'forgot.ng-tns-c1-6')点击失败，原因是：'NoneType' object has no attribute 'click'
+2022-11-22 00:44:44,161 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:44:54,326 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('xpath', '/html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 00:44:54,326 - basePage.py:[70] - [ERROR] - 获取文本失败('xpath', '/html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 00:48:47,660 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 00:48:48,185 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:48:48,210 - basePage.py:[43] - [DEBUG] - 元素定位成功，('css selector', '.forgot.ng-tns-c1-0')
+2022-11-22 00:48:48,302 - basePage.py:[98] - [INFO] - 元素('css selector', '.forgot.ng-tns-c1-0')点击成功！
+2022-11-22 00:48:51,723 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:49:01,832 - basePage.py:[40] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('xpath', '/html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 00:49:01,832 - basePage.py:[70] - [ERROR] - 获取文本失败('xpath', '/html/body/app-root/layout-oassport/div[1]/div[1]/div[1]/div[1]')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 00:53:36,548 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 00:53:37,044 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:53:37,066 - basePage.py:[43] - [DEBUG] - 元素定位成功，('css selector', '.forgot.ng-tns-c1-0')
+2022-11-22 00:53:37,140 - basePage.py:[98] - [INFO] - 元素('css selector', '.forgot.ng-tns-c1-0')点击成功！
+2022-11-22 00:53:40,572 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 00:53:40,590 - basePage.py:[43] - [DEBUG] - 元素定位成功，('xpath', '/html/body/app-root/layout-passport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 00:53:40,600 - basePage.py:[73] - [INFO] - 文本获取成功，值是： 雷小锋机构端管理系统
+2022-11-22 08:33:46,093 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 08:33:46,110 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 08:33:46,170 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-22 08:33:46,461 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 08:33:46,477 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 08:33:46,508 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 08:33:49,806 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 08:33:49,819 - basePage.py:[43] - [DEBUG] - 元素定位成功，('css selector', '.hint_PIwZX.c_font_2AD7M')
+2022-11-22 08:33:49,827 - basePage.py:[73] - [INFO] - 文本获取成功，值是： 百度为您找到相关结果约100,000,000个
+2022-11-22 08:34:01,286 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 08:34:01,707 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 08:34:01,725 - basePage.py:[43] - [DEBUG] - 元素定位成功，('css selector', '.forgot.ng-tns-c1-0')
+2022-11-22 08:34:01,781 - basePage.py:[98] - [INFO] - 元素('css selector', '.forgot.ng-tns-c1-0')点击成功！
+2022-11-22 08:34:07,195 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 08:34:07,212 - basePage.py:[43] - [DEBUG] - 元素定位成功，('xpath', '/html/body/app-root/layout-passport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 08:34:07,220 - basePage.py:[73] - [INFO] - 文本获取成功，值是： 雷小锋机构端管理系统
+2022-11-22 11:04:55,373 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 11:04:55,391 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 11:04:55,462 - basePage.py:[59] - [INFO] - 输入内容成功
+2022-11-22 11:04:55,899 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 11:04:55,916 - basePage.py:[43] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 11:04:55,946 - basePage.py:[98] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 11:04:59,236 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 11:04:59,251 - basePage.py:[43] - [DEBUG] - 元素定位成功，('css selector', '.hint_PIwZX.c_font_2AD7M')
+2022-11-22 11:04:59,260 - basePage.py:[73] - [INFO] - 文本获取成功，值是： 百度为您找到相关结果约100,000,000个
+2022-11-22 11:05:10,385 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 11:05:10,815 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 11:05:10,834 - basePage.py:[43] - [DEBUG] - 元素定位成功，('css selector', '.forgot.ng-tns-c1-0')
+2022-11-22 11:05:10,892 - basePage.py:[98] - [INFO] - 元素('css selector', '.forgot.ng-tns-c1-0')点击成功！
+2022-11-22 11:05:16,310 - basePage.py:[86] - [INFO] - 截图成功！
+2022-11-22 11:05:16,328 - basePage.py:[43] - [DEBUG] - 元素定位成功，('xpath', '/html/body/app-root/layout-passport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 11:05:16,336 - basePage.py:[73] - [INFO] - 文本获取成功，值是： 雷小锋机构端管理系统
+2022-11-22 11:16:09,052 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://www.baidu.com
+2022-11-22 11:16:13,221 - basePage.py:[44] - [DEBUG] - 元素定位成功，('id', 's-usersetting-top')
+2022-11-22 11:16:13,230 - basePage.py:[74] - [INFO] - 文本获取成功，值是： 设置
+2022-11-22 11:16:13,248 - basePage.py:[44] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 11:16:13,313 - basePage.py:[60] - [INFO] - 输入内容成功
+2022-11-22 11:16:13,326 - basePage.py:[44] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 11:16:13,355 - basePage.py:[99] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 11:16:13,720 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:19:19,500 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://www.baidu.com
+2022-11-22 11:21:54,035 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 11:21:58,214 - basePage.py:[44] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 11:21:58,281 - basePage.py:[60] - [INFO] - 输入内容成功
+2022-11-22 11:21:58,659 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:21:58,677 - basePage.py:[44] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 11:21:58,714 - basePage.py:[99] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 11:22:02,115 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:22:02,131 - basePage.py:[44] - [DEBUG] - 元素定位成功，('css selector', '.hint_PIwZX.c_font_2AD7M')
+2022-11-22 11:22:02,141 - basePage.py:[74] - [INFO] - 文本获取成功，值是： 百度为您找到相关结果约100,000,000个
+2022-11-22 11:22:13,902 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 11:22:14,680 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:22:14,699 - basePage.py:[44] - [DEBUG] - 元素定位成功，('css selector', '.forgot.ng-tns-c1-0')
+2022-11-22 11:22:14,757 - basePage.py:[99] - [INFO] - 元素('css selector', '.forgot.ng-tns-c1-0')点击成功！
+2022-11-22 11:22:20,510 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:22:20,529 - basePage.py:[44] - [DEBUG] - 元素定位成功，('xpath', '/html/body/app-root/layout-passport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 11:22:20,538 - basePage.py:[74] - [INFO] - 文本获取成功，值是： 雷小锋机构端管理系统
+2022-11-22 11:29:18,979 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://baidu.com
+2022-11-22 11:29:23,152 - basePage.py:[44] - [DEBUG] - 元素定位成功，('id', 'kw')
+2022-11-22 11:29:23,223 - basePage.py:[60] - [INFO] - 输入内容成功
+2022-11-22 11:29:23,583 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:29:23,599 - basePage.py:[44] - [DEBUG] - 元素定位成功，('id', 'su')
+2022-11-22 11:29:23,629 - basePage.py:[99] - [INFO] - 元素('id', 'su')点击成功！
+2022-11-22 11:29:27,044 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:29:27,062 - basePage.py:[44] - [DEBUG] - 元素定位成功，('css selector', '.hint_PIwZX.c_font_2AD7M')
+2022-11-22 11:29:27,074 - basePage.py:[74] - [INFO] - 文本获取成功，值是： 百度为您找到相关结果约100,000,000个
+2022-11-22 11:29:40,349 - basePage.py:[27] - [CRITICAL] - 异常发生，页面打开失败，失败内容是：HTTPConnectionPool(host='127.0.0.1', port=49870): Max retries exceeded with url: /session/d53446497116fff2abd0382509ee4a5e/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D04684190>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')) 
+失败的页面是： http://139.199.0.102/dashboard
+2022-11-22 11:36:28,355 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/dashboard
+2022-11-22 11:36:33,315 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:36:33,335 - basePage.py:[44] - [DEBUG] - 元素定位成功，('css selector', '.forgot.ng-tns-c1-0')
+2022-11-22 11:36:33,396 - basePage.py:[99] - [INFO] - 元素('css selector', '.forgot.ng-tns-c1-0')点击成功！
+2022-11-22 11:36:39,144 - basePage.py:[87] - [INFO] - 截图成功！
+2022-11-22 11:36:39,163 - basePage.py:[44] - [DEBUG] - 元素定位成功，('xpath', '/html/body/app-root/layout-passport/div[1]/div[1]/div[1]/div[1]')
+2022-11-22 11:36:39,172 - basePage.py:[74] - [INFO] - 文本获取成功，值是： 雷小锋机构端管理系统
+2022-11-22 14:42:48,782 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 14:42:58,888 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('xpath', "//input[@formcontrolanme='uesrName']")
+2022-11-22 14:42:58,888 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:43:08,993 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '[formcontrolanme="password"]')
+2022-11-22 14:43:08,993 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:43:09,012 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-22 14:43:09,075 - basePage.py:[100] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-22 14:43:19,185 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ng-untouched.ng-pristine.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-3.ng-star-inserted')
+2022-11-22 14:43:19,185 - basePage.py:[72] - [ERROR] - 获取文本失败('css selector', '.ng-untouched.ng-pristine.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-3.ng-star-inserted')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 14:43:29,340 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ng-pristine.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-3.ng-star-inserted.ng-touched')
+2022-11-22 14:43:29,340 - basePage.py:[72] - [ERROR] - 获取文本失败('css selector', '.ng-pristine.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-3.ng-star-inserted.ng-touched')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 14:49:10,019 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 14:49:20,129 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ng-untouched.ng-pristine.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-3.ng-star-inserted')
+2022-11-22 14:49:20,129 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:49:30,235 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ng-pristine.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-3.ng-star-inserted.ng-touched')
+2022-11-22 14:49:30,235 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:49:30,254 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-22 14:49:30,315 - basePage.py:[100] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-22 14:49:30,334 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:49:30,344 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-22 14:49:30,359 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:49:30,368 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-22 14:54:15,469 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 14:54:20,499 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.class="ng-invalid.ant-input.ant-input-lg.ng-tns-c1-0.ng-star-inserted.ng-dirty.ng-touched"')
+2022-11-22 14:54:20,499 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:54:30,616 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ng-untouched.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-0.ng-star-inserted.ng-dirty')
+2022-11-22 14:54:30,616 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:54:30,635 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-22 14:54:30,693 - basePage.py:[100] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-22 14:54:30,712 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:54:30,722 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-22 14:54:30,739 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:54:30,748 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-22 14:56:02,626 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 14:56:12,732 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-0.ng-star-inserted.ng-dirty.ng-touched')
+2022-11-22 14:56:12,732 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:56:22,846 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ng-untouched.ng-invalid.ant-input.ant-input-lg.ng-tns-c1-0.ng-star-inserted.ng-dirty')
+2022-11-22 14:56:22,846 - basePage.py:[58] - [ERROR] - 输入内容失败，原因是：'NoneType' object has no attribute 'send_keys'
+2022-11-22 14:56:22,867 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-22 14:56:22,935 - basePage.py:[100] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-22 14:56:22,954 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:56:22,966 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-22 14:56:22,981 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:56:22,990 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-22 15:07:31,439 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 15:07:31,459 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-22 15:07:31,542 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:07:31,559 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-22 15:07:31,596 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:07:31,610 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-22 15:07:31,649 - basePage.py:[100] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-22 15:07:41,807 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ant-modal-confirm-title>span')
+2022-11-22 15:07:41,807 - basePage.py:[72] - [ERROR] - 获取文本失败('css selector', '.ant-modal-confirm-title>span')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 15:07:51,922 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-22 15:07:51,922 - basePage.py:[97] - [ERROR] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击失败，原因是：'NoneType' object has no attribute 'click'
+2022-11-22 15:10:53,322 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 15:10:53,341 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-22 15:10:53,364 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:10:53,380 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-22 15:10:53,403 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:10:53,419 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-22 15:10:53,457 - basePage.py:[100] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-22 15:10:53,476 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 15:10:53,489 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入手机号码
+2022-11-22 15:10:53,509 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 15:10:53,520 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 请输入6-20位账户密码
+2022-11-22 15:12:48,801 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 15:12:48,822 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-22 15:12:48,881 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:12:48,902 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-22 15:12:48,948 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:12:59,076 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 Message: 
+，该元素是： ('css selector', '.ant-modal-confirm-title>span')
+2022-11-22 15:12:59,076 - basePage.py:[72] - [ERROR] - 获取文本失败('css selector', '.ant-modal-confirm-title>span')失败，
+错误信息是： 'NoneType' object has no attribute 'text'
+2022-11-22 15:13:12,994 - basePage.py:[42] - [ERROR] - 元素定位失败，错误信息是 'NoneType' object has no attribute 'is_displayed'，该元素是： ('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-22 15:13:12,994 - basePage.py:[97] - [ERROR] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击失败，原因是：'NoneType' object has no attribute 'click'
+2022-11-22 15:15:26,911 - basePage.py:[31] - [INFO] - 未发生异常，页面打开成功！ http://139.199.0.102/passport/login
+2022-11-22 15:15:26,932 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="userName"]')
+2022-11-22 15:15:26,984 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:15:27,002 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '[formcontrolname="password"]')
+2022-11-22 15:15:27,045 - basePage.py:[61] - [INFO] - 输入内容成功
+2022-11-22 15:15:27,059 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', "[type='submit']")
+2022-11-22 15:15:27,095 - basePage.py:[100] - [INFO] - 元素('css selector', "[type='submit']")点击成功！
+2022-11-22 15:15:27,369 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-22 15:15:27,379 - basePage.py:[75] - [INFO] - 文本获取成功，值是： 用户名或密码错误，请重新输入！
+2022-11-22 15:15:27,395 - basePage.py:[45] - [DEBUG] - 元素定位成功，('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-22 15:15:27,441 - basePage.py:[100] - [INFO] - 元素('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')点击成功！
